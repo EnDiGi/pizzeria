@@ -2,14 +2,6 @@ import menu
 
 nomePizzeria = 'Pac-Man Pizza'
 
-def accogliCliente():
-
-        nome = ''
-        età = 0
-
-        print('Benvenuto nella pizzeria ' + nomePizzeria + '!')
-
-        return nome, età
 
 def faiOrdine(nome, età):
         ordine = []
